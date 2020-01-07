@@ -11,11 +11,12 @@
   "profile": {
     "name": "typicode"
   },
-  "notes": {
-    "all":{
-      "id": 1, "name": "some name"
-    },
-    { "id": 1, "name": "some name" },
-    { "id": 2, "name": "some name" }
-  }
+  "notes": [
+    {
+      "all":{
+        { "id": 1, "name": "test all" }
+      },
+    { "id": 2, "name": "some name" },
+    { "id": 3, "name": "some name" }
+  ]
 }
