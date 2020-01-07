@@ -12,9 +12,9 @@
     "name": "typicode"
   },
   "notes": [
+    { "id": 1, 
+     "name": "new text",
     "all":[
-      { "id": 1, "name": "new text" }
-    ]
-    { "id": 1, "name": "new text" }
+      "test": "values"]}
   ]
 }
