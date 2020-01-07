@@ -11,9 +11,8 @@
   "profile": {
     "name": "typicode"
   },
-  "notes": {
-      "all":[
-        { "id": 1, "name": "test all" }
-      ]
-   }
+  "notes": [
+    { "id": 1, "name": "test all" },
+    { "id": 2, "name": "test all" }
+  ]
 }
