@@ -14,7 +14,9 @@
   "notes": [
     { "id": 1, 
      "name": "new text",
-    "all":[
-      "test": "values"]}
+    "all":{
+      "test": "values"
+      }
+    } 
   ]
 }
