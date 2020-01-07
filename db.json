@@ -14,10 +14,5 @@
   "notes": [
     { "id": 1, "name": "test all" },
     { "id": 2, "name": "test all" }
-  ],
-  "user": [
-    { "register":[
-      "device_id": 1,
-    ] "id": 1 }
-  ],
+  ]
 }
