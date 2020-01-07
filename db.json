@@ -12,8 +12,8 @@
     "name": "typicode"
   },
   "notes": {
-      "all":{
+      "all":[
         "id": 1, "name": "test all"
-      }
+      ]
    }
 }
