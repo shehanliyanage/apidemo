@@ -12,6 +12,9 @@
     "name": "typicode"
   },
   "notes": [
+    "all":[
+      { "id": 1, "name": "new text" }
+    ]
     { "id": 1, "name": "new text" }
   ]
 }
