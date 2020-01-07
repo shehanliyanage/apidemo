@@ -1,6 +1,9 @@
 {
-  "notes": [
-  ],
+  "notes": {
+    "user": {
+      
+    }
+  },
   "test": {
     "name": "typicode"
   }
