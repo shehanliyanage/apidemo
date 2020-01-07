@@ -2,15 +2,18 @@
   "notes": [
     {
       "id": 1,
-      "title": "Post 1"
+      "note": "Post 1"
+      "timestamp": "2020-01-05 13:00:00"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "note": "Post 2"
+      "timestamp": "2020-01-05 13:00:00"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "note": "Post 3"
+      "timestamp": "2020-01-05 13:00:00"
     }
   ],
   "profile": {
